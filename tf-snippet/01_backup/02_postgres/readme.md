@@ -1,0 +1,1 @@
+This is a mock directory to showcase how the code structure would look like. 
