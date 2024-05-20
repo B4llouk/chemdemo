@@ -7,8 +7,6 @@ ssh chemdemo@20.107.240.163
 ```sh
 sudo apt update
 sudo apt install postfix
-sudo apt update
-sudo apt install postfix
 ```
 ### open the postfix config file with root privileges
 
